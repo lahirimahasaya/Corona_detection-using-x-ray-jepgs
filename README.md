@@ -4,5 +4,4 @@ Here we are using CNN and DNN for model creation and the optimizer we are using 
 And results accuracy and loss plots are displayed
 
 
-
 Credits to Kaggle dataset provider.
